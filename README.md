@@ -1,4 +1,4 @@
-# cadastroNegociacoesComES6-
+# Cadastro de negociações - ES6
 
 Exemplo simples com ES6
 
